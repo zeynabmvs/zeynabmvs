@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zeynabmvs
-- 👀 I’m interested in Web developement and coding in general
-- 🌱 I’m currently learning to build websites using elementor
+- 👀 I’m interested in Web developement 
 
 <!---
 zeynabmvs/zeynabmvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
